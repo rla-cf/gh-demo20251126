@@ -10,7 +10,7 @@ concurrency:
   group: Deploy
 env:
   AZURE_RESOURCE_GROUP: gh-demo-20251126
-  AZURE_CONTAINER_REGISTRY: ghdemo20251126
+  AZURE_CONTAINER_REGISTRY: ghdemo2025116
   AZURE_TENANT_ID: 49c3d703-3579-47bf-a888-7c913fbdced9
 
 permissions:
